@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.row{
+    width: 100%;
+    margin: 5px;
+}
+input{
+    max-width: 50px;
+}
+.plot-btn{
+    max-width: fit-content;
+    margin-right: 25px;
+}
+.container2{
+    margin-top: 10px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+}
